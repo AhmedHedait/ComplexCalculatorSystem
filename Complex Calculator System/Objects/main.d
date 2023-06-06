@@ -1,0 +1,9 @@
+.\objects\main.o: main.c
+.\objects\main.o: MiniProj_LCD.h
+.\objects\main.o: keypad.h
+.\objects\main.o: MiniProj_PLL.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: main.h
+.\objects\main.o: UART.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
